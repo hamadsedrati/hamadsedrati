@@ -43,8 +43,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hamadsedrati&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamadsedrati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hamadsedrati&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamadsedrati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamadsedrati&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
