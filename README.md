@@ -1,4 +1,5 @@
-<h1> 👋 Hi there!   Welcome to my GitHub!</h1>
+<h1 align="center">Hi 👋, I'm Hamad Sedrati</h1>
+<h3 align="center">Cybersecurity enthusiast on a journey to secure the digital world</h3>
 
 ###
 
@@ -28,6 +29,14 @@
 
 ###
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hamadsedrati&label=Profile%20views&color=0e75b6&style=flat" alt="hamadsedrati" /> </p
+
+###
+
+<h3 align="center">Connect with me:</h3>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/hamad-sedrati-48436b371/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -39,6 +48,14 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+- 🔭 I’m currently working on [Port Scanner](https://github.com/hamadsedrati/portscanner)
+
+- 🌱 I’m currently learning **CCNA**
+
+- 💬 Ask me about **Python, Bash or PHP**
 
 ###
 
