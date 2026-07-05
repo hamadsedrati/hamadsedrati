@@ -52,9 +52,10 @@
   <img src="https://github-readme-stats.shion.dev/api?username=hamadsedrati&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /> <br>
   <img src="https://streak-stats.demolab.com/?user=hamadsedrati&theme=dark&hide_border=true"/> <br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamadsedrati&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&fontSize=20&theme=dark&text=You%20miss%20100%25%20of%20the%20shots%20you%20don't%20take"/>
 </div>
 
+###
+![](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&type=horizontal&quotesUrl=quote.json)
 ###
 
 <picture>
