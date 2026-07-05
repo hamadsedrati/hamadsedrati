@@ -40,22 +40,19 @@
 
 ###
 
-- 🔭 I’m currently working on [Port Scanner](https://github.com/hamadsedrati/portscanner)
-
-- 🌱 I’m currently learning **CCNA**
-
-- 💬 Ask me about **Networks, C or Java**
+<br>
+<div align="center">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?&theme=darcula&type=horizontal&quotesUrl=https://raw.githubusercontent.com/hamadsedrati/hamadsedrati/refs/heads/main/quote.json">
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hamadsedrati&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /> <br>
-  <img src="https://streak-stats.demolab.com/?user=hamadsedrati&theme=dark&hide_border=true"/> <br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamadsedrati&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.shion.dev/api?username=hamadsedrati&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /> <br><br>
+  <img src="https://streak-stats.demolab.com/?user=hamadsedrati&theme=dark&hide_border=true"/> <br><br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamadsedrati&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" /><br><br>
 </div>
 
-###
-![](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&type=horizontal&quotesUrl=quote.json)
 ###
 
 <picture>
