@@ -4,13 +4,19 @@
 ###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" alt="c logo"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" height="60"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux logo" height="60"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx logo" height="60"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" alt="c logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
 ###
@@ -27,12 +33,6 @@
   <a href="https://www.linkedin.com/in/hamad-sedrati-48436b371/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/hamad.sedrati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/97338443190">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hamadsedrati@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -44,14 +44,15 @@
 
 - 🌱 I’m currently learning **CCNA**
 
-- 💬 Ask me about **Python, Bash or PHP**
+- 💬 Ask me about **Networks, C or Java**
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hamadsedrati&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamadsedrati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamadsedrati&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=hamadsedrati&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /> <br>
+  <img src="https://streak-stats.demolab.com/?user=hamadsedrati&theme=dark&hide_border=true"/> <br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hamadsedrati&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&fontSize=20&theme=dark&text=You%20miss%20100%25%20of%20the%20shots%20you%20don't%20take"/>
 </div>
 
 ###
