@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" alt="c logo"/>
+  <img src="https://github.com/user-attachments/assets/5d8b3794-17d8-4821-8350-0388d5db6c0e" alt="c logo" height="60"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java logo" height="60"/>
   <img width="12" />
@@ -31,13 +31,13 @@
 
 <div align="center">
   <a href="https://hamad-sedrati.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" alt="portfolio logo"  />
+    <img src="https://img.shields.io/badge/-Portfolio-2b2b2b?style=flat&logo=googlechrome&logoColor=white" height="25" alt="portfolio logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hamad-sedrati-48436b371/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hamadsedrati@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
 </div>
 
