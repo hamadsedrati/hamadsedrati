@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <a href="https://hamad-sedrati.netlify.app" target="_blank">
+  <a href="https://hamadsedrati.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-2b2b2b?style=flat&logo=googlechrome&logoColor=white" height="25" alt="portfolio logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hamad-sedrati-48436b371/" target="_blank">
